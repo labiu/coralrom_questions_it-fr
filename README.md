@@ -32,54 +32,32 @@ interaction according to the following file name conventions.
 -   Interaction type: dial (dialogue); cv (multi dialogue)
 
 ifamdl12 - two young women trying to cook a Tiramisù
-
 Ifamdl02 – a souvenir of a family
-
 ifamdl20 - gossips of two women about a friend’s love story
-
 ifamcv14 – poker game among friends
-
 ifamdl15 - chat with the beautician during the depilation
-
 ifamcv01 - showing the family Photo album to the daughter-in-low
-
 ifamdl09 - chat after a rock concert experience
-
 ifamdl19 - driving school
-
 ipubcv03 - setting the agenda for young children’s assistance
-
 ifamdl17-developing photographs in a dark room
 
 fnatte02 - explaining linguistic concepts in a class
-
 fpubcv02 - students dealing with the University administration
-
 ffamdl01 - chat among friends after the weekend
-
 fnatbu01 - the sale of a car
-
 famdl08 - criticism of the odd behavior of a family
-
 ffamdl23 - visiting the grandmother
-
 ffamdl02 - how the market of goods is organized
-
 fpubdl01- discussion with workers on strike
-
 fpubdl02- door-to-door sale
-
 ffamcv03 - talking about skinheads in France
-
 ffamcv05 - two women talk of the home décor
-
 ffamdl04 - the life of a student who wants to become a singer
-
 ffamdl10- a journey to Cuba
-
 ffamdl17 - life and Memories of a Miner
 
-1.  **Data set**
+**Data set**
 
 The selection of questions among the utterances provided in the corpus
 selection undergoes the following annotation criteria:
