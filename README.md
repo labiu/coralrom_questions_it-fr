@@ -189,7 +189,7 @@ fields:
 1.  the filename of the C-ORAL-ROM sample
 2.  the time stamp of the utterance in the C-ORAL-ROM acoustic file
 
-1.  *Question classification *
+*Question classification*
 
 The file Q-French and the file Q-Italian list each question in a record
 identified by the following fields, where (A) and (B) constitute the
