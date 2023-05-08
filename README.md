@@ -1,6 +1,6 @@
 # coralrom_questions_it-fr
 
-1.  **Source**
+**Source**
 
 The data set collects all utterances classified as *genuine questions*
 in samples of spontaneous speech interactions derived from the Italian
@@ -11,7 +11,7 @@ Languages. Amsterdam: Benjamins. Italian and French C-ORAL-ROM corpora
 are also freely available from: http://corpus.lablita.it/?locale=en and
 https://orfeo.ortolang.fr/?locale=fr
 
-1.  **Samples**
+**Samples**
 
 The Italian collection of samples gathers ten files comprising 4162
 utterances, from which 366 questions have been retrieved. It represents
@@ -98,7 +98,7 @@ this reason, the above types of utterances are not considered “genuine”.
 They are not in the data set which aims at identifying questions as
 those directive utterances “aimed at the addressee linguistic behavior.”
 
-Questions are classified according to the annotation schema in Table 1:
+Questions are classified according to the annotation schema in the following table:
 
 <table>
 <tbody>
@@ -184,7 +184,6 @@ Questions are classified according to the annotation schema in Table 1:
 </tbody>
 </table>
 
-Table 1
 
 Total Questions and Alternative Questions are tagged according to
 further specifications:[^1]
@@ -202,9 +201,9 @@ negative nature of the alternative:
 -   Alternative positive (“ap”)
 -   Alternative negative (“an”)
 
-1.  **File system**
+**File system**
 
-1.  *Acoustic source*
+*Acoustic source*
 
 Utterances are delivered in wav or mp3 files. The filename comprises two
 fields:
@@ -237,7 +236,7 @@ unique ID of the utterance in the file system:
 | \>    | End of an overlapped word sequence                   |
 | &     | Mark was given to a word fragment or to time taking. |
 
-Table 2
+
 
 **Warning**
 
@@ -251,5 +250,4 @@ overlapped sequences.
     system of questions in spoken Italian and French according to
     Language into Act Theory. *Front. Commun. *8:1124513. doi
     10.3389/fcomm.2023.1124513
-
-[^2]: 
+ 
