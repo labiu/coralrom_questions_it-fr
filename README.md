@@ -203,7 +203,6 @@ unique ID of the utterance in the file system:
 6.  The orthographic transcription of the utterance with the following
     punctuation
 
-|-------|------------------------------------------------------|
 | tag   | definition                                           |
 |-------|------------------------------------------------------|
 | //    | Terminal prosodic break                              |
@@ -213,7 +212,6 @@ unique ID of the utterance in the file system:
 | \<    | Beginning of an overlapped word sequence[^2]         |
 | \>    | End of an overlapped word sequence                   |
 | &     | Mark was given to a word fragment or to time taking. |
-|-------|------------------------------------------------------|
 
 
 **Warning**
